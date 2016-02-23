@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionumch00bevegoog_0205.png"; bbox 0 0 3138 4354; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 166 115 1203 649">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 166 115 1203 649">
+     <span class='ocr_line' id='line_1_1' title="bbox 166 115 914 288; baseline -0.013 -37"><span class='ocrx_word' id='word_1_1' title='bbox 166 116 336 251; x_wconf 61' lang='lat' dir='ltr'>Lim..</span> <span class='ocrx_word' id='word_1_2' title='bbox 555 115 914 288; x_wconf 70' lang='lat' dir='ltr'><em>(hronologt&#39;cae.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 343 301 1203 424; baseline -0.007 -22"><span class='ocrx_word' id='word_1_3' title='bbox 343 309 516 405; x_wconf 66' lang='lat' dir='ltr'><em>&#39;fabula&#39;</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 537 312 817 424; x_wconf 67' lang='lat' dir='ltr'>Charasterum</span> <span class='ocrx_word' id='word_1_5' title='bbox 849 301 1203 401; x_wconf 65' lang='lat' dir='ltr'><strong>Atitbmeticorum.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 424 416 1105 513; baseline -0.01 0"><span class='ocrx_word' id='word_1_6' title='bbox 424 416 1105 513; x_wconf 70' lang='lat' dir='ltr'><em>GHA&#39;RACTERE&#39;S.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 224 537 1154 649; baseline -0.01 -23"><span class='ocrx_word' id='word_1_7' title='bbox 224 635 227 640; x_wconf 21' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_8' title='bbox 382 541 614 649; x_wconf 79' lang='lat' dir='ltr'><em>Figurativi.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 952 537 1154 618; x_wconf 67' lang='lat' dir='ltr'><em>literales.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1574 4354">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1574 4354">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1574 4354; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1574 4354; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
